@@ -1,0 +1,20 @@
+
+/* Header section */
+.honda-info-bg{
+    width: auto;
+    height: 700px;
+    background-color: #264653;
+    padding-top: 70px;
+}
+
+
+/* Frtured Bikes */
+.feture-bike-collection{
+    color: #E76F51;
+}
+.fetured-bikes {
+    width: 288px;
+}
+.gray-bikes{
+    filter: grayscale(100%);
+}
