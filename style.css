@@ -23,3 +23,14 @@
 .gray-bikes{
     filter: grayscale(100%);
 }
+
+/* Clients section */
+.clints-title{
+    color: #E76F51;
+}
+.list{
+    list-style-type: none;
+}
+.clints-name{
+    color: #23A6F0;
+}
