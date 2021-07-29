@@ -3,6 +3,9 @@
     background-color: #E76F51;
     color: white;
 }
+.title-color{
+    color: #E76F51;
+}
 
 /* Header section */
 .honda-info-bg{
@@ -13,10 +16,7 @@
 }
 
 
-/* Frtured Bikes */
-.feture-bike-collection{
-    color: #E76F51;
-}
+/* Frtured Bikes section*/
 .fetured-bikes {
     width: 288px;
 }
@@ -25,7 +25,7 @@
 }
 
 /* Clients section */
-.clints-title{
+.title-color{
     color: #E76F51;
 }
 .list{
@@ -33,4 +33,11 @@
 }
 .clints-name{
     color: #23A6F0;
+}
+
+/* Footer section */
+.honda-text-color .list{
+    color: #FFFFFF;
+    list-style-type: none;
+    text-decoration: none;
 }
